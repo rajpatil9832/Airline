@@ -1,0 +1,29 @@
+.ticket-img{
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(../dom1/img/Vector-Smart-Object-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: orange;
+}
+/* 
+.form-img{
+    background-image:url(../dom1/img/Png-2.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  
+} */
+ .img-1{
+    background-image:  linear-gradient(rgba(255, 202, 96, 0.193), rgba(255, 202, 96, 0.189)),url(./img/Airplan_bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+ }
+ .img-2{
+    border:6px dashed dimgray;
+ }
+ .img-3{
+    background-color: #C59C4A;
+   /* border: 4px dotted red ; */
+   border-left: 10px dotted red;
+ }
+ 
